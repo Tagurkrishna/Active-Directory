@@ -91,7 +91,8 @@ User must change password at next logon
 
 #### 📜 Automating Bulk User Creation (PowerShell)
 To create multiple users at once, I used this **PowerShell script**:
-- **Securtiy Hardening**: [Security Hardening]([https://github.com/Tagurkrishna/Active-Directory/blob/main/security-hardening.md)
+
+- **For more Securtiy Hardening**: [Security Hardening](https://github.com/Tagurkrishna/Active-Directory/blob/main/security-hardening.md)
 
 ```powershell
 Import-Module ActiveDirectory
