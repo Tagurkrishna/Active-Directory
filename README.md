@@ -194,6 +194,7 @@ By following this comprehensive guide, I've established a functional Active Dire
 
 ## 📂 Repository Structure
 
+```text
 Active-Directory-Home-Lab/
 │── README.md             # Main Documentation
 │── Scripts/
@@ -203,3 +204,4 @@ Active-Directory-Home-Lab/
 │── Workflows/
 │   ├── network_diagram.md      # Network Topology
 │   ├── troubleshooting.md      # Common Issues & Fixes
+```
