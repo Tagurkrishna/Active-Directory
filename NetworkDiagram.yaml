@@ -1,0 +1,12 @@
+
+---
+
+## 📊 Network Diagram (MermaidJS)
+
+```mermaid
+graph TD;
+    Internet -->|Public Network| Router;
+    Router -->|192.168.1.1| Switch;
+    Switch -->|192.168.1.10| Domain_Controller[Windows Server (AD DS)];
+    Domain_Controller -->|DNS & DHCP| Client_PC[Windows 10 Client];
+    Domain_Controller -->|Monitoring Tools| Monitoring_Server[Monitoring Server];
