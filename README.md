@@ -2,7 +2,7 @@
 
 > **A personal project where I built an Active Directory (AD) lab from scratch, configuring Windows Server, managing users, setting up GPOs, and securing a network environment.**
 
-![Active Directory Lab]([https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Active_Directory_structure.svg/800px-Active_Directory_structure.svg.png](https://github.com/Tagurkrishna/Active-Directory/blob/main/Active%20directory.jpg))
+![Active Directory Lab]([https://github.com/Tagurkrishna/Active-Directory/blob/main/Active%20directory.jpg))
 
 ## 📌 Overview
 In this project, I set up a **Windows Server-based Active Directory environment** in a **virtualized lab** to simulate a real-world IT infrastructure. The goal was to gain hands-on experience in domain management, Group Policy, user administration, and network security.
